@@ -1,2 +1,2 @@
-test = 1
-print(test)
+test1 = 1
+print(test1)
