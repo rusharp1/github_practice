@@ -1,4 +1,4 @@
-test1 = 100
+test1 = 10
 print(test1)
 
 text = "Orange"
