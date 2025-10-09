@@ -1,2 +1,2 @@
-test2 = 200
+test2 = 20
 print(test2)
